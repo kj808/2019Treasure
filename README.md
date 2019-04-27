@@ -1,6 +1,6 @@
 # EECS738_Treasure
 
-#### Introduction
+### Introduction
 Reinforcement learning is a machine learning concept. Given an environment, the model attempts to understand the system with four basic principles.
 
 1. States
@@ -12,5 +12,5 @@ An agent refers to who is learning the provided environment. This agent can enco
 
 Treasure hunts consist of a brave hero, dangerous obstacles and glorious treasure respectively represented by our agent and various states. We also know our hero can move across the map to locate the treasure which represents our possible actions such as up, down, left and right. With our hero, we understand that dangerous obstacles represent a negative experience and treasures provide a positive experience. Thus the rewards are respectively negative and positive score values depending on what state our agent encounters.
 
-#### Repository Contents
+### Repository Contents
 Contains the notebook for implementing the player, environment and simulation.
